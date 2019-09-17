@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://hqs-theme-playground.netlify.com"
 languageCode = "en-us"
 title = "QuickStart Hugo Site"
 theme = "ananke"
